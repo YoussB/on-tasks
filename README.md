@@ -24,3 +24,5 @@ To run tests and get coverage for CI:
     ./node_modules/.bin/istanbul report cobertura
     # if you want HTML reports locally
     ./node_modules/.bin/istanbul report html
+
+TEst
